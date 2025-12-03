@@ -13,7 +13,7 @@ While this GitHub repository hosts the **raw code and solution scripts**, the de
 
 I believe that understanding the underlying logic is more important than just getting the flag. You can read my detailed documentation, thought processes, and study notes here:
 
-👉 **[View My Cryptography Notes & Write-ups (Notion)](https://foul-spur-595.notion.site/Introduction-to-CryptoHack-2bec2f748fa280f78a17f799aa9ffa92)**
+👉 **[View My Cryptography Notes & Write-ups (Notion)](https://foul-spur-595.notion.site/Cryptography-2bec2f748fa28088b9eae2afc5e12f88?pvs=73)**
 
 ## 🚀 Objectives
 
