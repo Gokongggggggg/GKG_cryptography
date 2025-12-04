@@ -1,4 +1,4 @@
-# GKG Cryptography 🔐
+# Gokongggggggg Cryptography 🔐
 
 Welcome to my personal cryptography learning archive. This repository serves as the central hub for the code, scripts, and mathematical solvers I develop while studying modern cryptography and solving challenges (primarily from [CryptoHack](https://cryptohack.org/)).
 
